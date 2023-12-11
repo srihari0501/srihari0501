@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm SRIHARI S</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img src="">
+<img src="../profile/profile.PNG">
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=srihari0501" alt="srihari0501" /></a> </p>
 
 - 🌱 I’m currently learning **Full-Stack-Developer**
